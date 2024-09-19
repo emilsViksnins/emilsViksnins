@@ -6,7 +6,7 @@ Passionate about Innovation and Technology
 ------------------------------------------ 
 I am actively pursuing opportunities to transition into a software development role, leveraging my existing technical skills and passion for coding to grow in this field. I am also highly interested in cloud computing technologies and artificial intelligence integration into applications and systems, which I am exploring through practical work. 
 
-* 🌍  I'm based in Riga and Tallinn
+* 🌍  I'm based in Riga
 * 🧠  I'm learning AI integration, Cyber Security and Java backend development
 
 ### Skills  
